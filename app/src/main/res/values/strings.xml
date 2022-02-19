@@ -1,8 +1,12 @@
 <resources>
     <string name="app_name">WeatherAppKotlin</string>
-    <string name="temperature_label">Температура</string>
-    <string name="feels_like_label">Ощущается как</string>
+    <string name="start_city">Москва</string>
+    <string name="degree_zero">0°C</string>
+    <string name="degree_of_celsius">°C</string>
+    <string name="condition_default">Облачно</string>
+    <string name="reload">Reload</string>
     <string name="city_coordinates">lt/ln: %s, %s"</string>
     <string name="error">Error</string>
-    <string name="reload">Reload</string>
+    <string name="temperature_label">Температура</string>
+    <string name="feels_like_label">Ощущается</string>
 </resources>
